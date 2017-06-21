@@ -1,0 +1,26 @@
+
+
+int base;
+int exponente;
+string potencia;
+int i;
+
+array [6] of int arreglo;
+
+function int suma(int a,int b){
+ return a+b;
+}
+
+return suma(1,2);
+
+for( i=0 to 5 )
+{
+  arreglo[i] = i*2;
+}
+
+
+for( i=0 to 5 )
+{
+  purinto arreglo[i];
+}
+

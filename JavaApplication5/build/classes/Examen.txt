@@ -1,0 +1,16 @@
+
+-declaraciones 5%
+    -Validar que las variables sean unicas
+    -Los parametros de funcion si se pueden llamar igual que las variables globales
+    - funcion no se puede llamar igual entre si y que una variable global o parametro
+-Funciones 40%
+  -validar invocacion de funciones
+  -sobrecarga de funciones
+  - validar que los metodos siempre hagan return en TODOS los path
+  - El return solo se puede usar dentro de una funcion
+-Asignacion 10%
+   -todos los del mismo tipo son asignables incluyendo arreglos con misma estructura
+-Validar semantica de arreglos 20%
+-Validar semantica de operadores( 15%
+   -los operadores se comportan igual que esperarian en java
+ -Validar semantica de sentencias 10%
